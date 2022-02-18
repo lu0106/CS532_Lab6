@@ -1,0 +1,23 @@
+﻿id,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,calculated_host_listings_count,availability_365
+2015,2217,Ian,Mitte,Brunnenstr. S眉d,52.53453732,13.40255693,Entire home/apt,60,4,118,4,141
+2695,2986,Michael,Pankow,Prenzlauer Berg Nordwest,52.54851279,13.40455283,Private room,17,2,6,1,0
+3176,3718,Britta,Pankow,Prenzlauer Berg S眉dwest,52.53499619,13.41757867,Entire home/apt,90,62,143,1,220
+3309,4108,Jana,Tempelhof - Sch枚neberg,Sch枚neberg-Nord,52.49885493,13.34906453,Private room,26,5,25,1,297
+7071,17391,Bright,Pankow,Helmholtzplatz,52.54315726,13.4150911,Private room,42,2,197,1,26
+9991,33852,Philipp,Pankow,Prenzlauer Berg S眉dwest,52.53303077,13.41604682,Entire home/apt,180,6,6,1,137
+14325,55531,Chris + Oliver,Pankow,Prenzlauer Berg Nordwest,52.54784641,13.40556224,Entire home/apt,70,90,23,3,129
+16401,59666,Melanie,Friedrichshain-Kreuzberg,Frankfurter Allee S眉d FK,52.510514,13.45785024,Private room,120,30,0,1,365
+16644,64696,Rene,Friedrichshain-Kreuzberg,n枚rdliche Luisenstadt,52.50479227,13.43510185,Entire home/apt,90,60,48,2,159
+17409,67590,Wolfram,Pankow,Prenzlauer Berg S眉dwest,52.52907092,13.41284339,Private room,45,3,279,1,42
+17904,68997,Matthias,Neuk枚lln,Reuterstra脽e,52.49547633,13.42182128,Entire home/apt,49,5,223,1,232
+20858,71331,Marc,Pankow,Prenzlauer Berg S眉dwest,52.53695243,13.40761503,Entire home/apt,129,3,56,1,166
+21869,64696,Rene,Friedrichshain-Kreuzberg,n枚rdliche Luisenstadt,52.50273333,13.43461986,Entire home/apt,70,60,60,2,129
+22415,86068,Kiki,Friedrichshain-Kreuzberg,s眉dliche Luisenstadt,52.49485062,13.4285006,Entire home/apt,98,3,61,2,257
+22677,87357,Ramfis,Mitte,Brunnenstr. S眉d,52.53434836,13.40557652,Entire home/apt,160,3,223,1,228
+23834,94918,Tanja,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48971443,13.37974758,Entire home/apt,65,60,96,1,275
+24569,99662,Dominik,Pankow,Prenzlauer Berg S眉dwest,52.53079085,13.41808444,Entire home/apt,90,3,18,2,3
+25653,99662,Dominik,Pankow,Prenzlauer Berg S眉d,52.53025874,13.41946696,Entire home/apt,90,4,5,2,15
+26543,112675,Terri,Pankow,Helmholtzplatz,52.54406239,13.42137652,Entire home/apt,197,3,163,1,336
+28156,55531,Chris + Oliver,Pankow,Prenzlauer Berg Nordwest,52.54671937,13.40511702,Entire home/apt,70,90,28,3,191
+28268,121580,Elena,Friedrichshain-Kreuzberg,Frankfurter Allee S眉d FK,52.51338523,13.46994751,Entire home/apt,90,5,30,1,55
+28711,84157,Emanuela,Neuk枚lln,Reuterstra脽e,52.48610615,13.43481698,Entire home/apt,60,2,1,10,341
